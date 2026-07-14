@@ -1,4 +1,4 @@
-# ProyectoAseguradora
+# Proyecto Aseguradora
 
 Este repositorio contiene un ejemplo completo de sistema de seguros basado en **procesos de negocio**, construido sobre Camunda 7 y Spring Boot. El caso implementa la emisión de pólizas, la gestión de reclamaciones y la renovación/fidelización de clientes.
 
